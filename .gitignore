@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+util/dist
+dist
+src/lit_flop.c
+cmake_install.cmake
+cmake-build-debug
+Makefile
+CMakeFiles/
+CMakeCache.txt
+.idea
